@@ -15,7 +15,7 @@ Nested LSTMs add depth to LSTMs via nesting as opposed to stacking
 
 ### NLP - Application
 
-### NLP - Review/Overview
+### Review/Overview
 
 1. [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/pdf/1706.05098.pdf): Aims to give a general overview of MTL, particularly in deep neural networks. It introduces the two most common methods for MTL in Deep Learning, gives an overview of the literature, and discusses recent advances
 
